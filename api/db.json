@@ -1,0 +1,28 @@
+{
+  "fruits": [
+    {
+      "id": "j7hDSFF",
+      "fruit": "banana"
+    },
+    {
+      "id": "w4n2jRE",
+      "fruit": "Apple"
+    },
+    {
+      "id": "0YJ0QGn",
+      "fruit": "Apricot"
+    },
+    {
+      "id": "JXr8GiW",
+      "fruit": "Orange"
+    },
+    {
+      "id": "qMCYMDx",
+      "fruit": "Guava"
+    },
+    {
+      "id": "ScNzP4c",
+      "fruit": "Peach"
+    }
+  ]
+}
