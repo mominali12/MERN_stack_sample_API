@@ -39,7 +39,6 @@ This API is created using **json server** : (*a package which allows to set-up a
 This API is created using; MongoDB for database, Express for managing server and React for front-end. The API exposes two functions addfruit() and getfruits() which allow the user to add a fruit to a list of fruits and get the list of fruits respectively.
 
 ### Application Navigation:
-Following is a description of how to navigate through the app.
 	1.	Once the app starts up user will be shown a list of fruits.
 	2.	The user can add fruits to the list using add fruit button. 
 	3.	After entering each fruit click add button.
